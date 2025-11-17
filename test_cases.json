@@ -1,0 +1,11 @@
+[
+  {
+    "query": "Who is Charles Kingsley?",
+    "expected": "Charles Kingsley was a Devonshire‑born author and clergyman.  Born in Holne and raised in Clovelly, he studied at Cambridge and then took holy orders, serving first as a curate and later as rector in Eversley, Hampshire.  A committed Christian Socialist, he devoted early years to the poor and later gained honors such as a history professorship at Cambridge and a chaplaincy to the Queen.  Kingsley wrote several novels that tackled social issues—*Alton Locke, Tailor and Poet* (1850) and *Yeast, a Problem* (1858) among them—as well as works exploring early Christianity and Victorian society."
+  },
+  {
+    "query": "Who is Sakib?",
+    "expected": "The document does not contain this information."
+  }
+]
+
